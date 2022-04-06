@@ -10,5 +10,7 @@ public class Hat {
 
     //last
 
+    // adding more lines
+
 
 }
